@@ -28,4 +28,16 @@ ul.recipe-list{
   border: solid rgb(76, 208, 172) 10px;
 }
 
+a{
+  text-decoration: none;
+}
+
+a:link{
+  color: white;
+}
+
+a:hover{
+  color:rgb(55, 151, 125);
+}
+
 
