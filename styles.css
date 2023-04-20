@@ -3,7 +3,7 @@ body{
   text-align: center;
 }
 
-ul{
+ul.recipe-list{
   list-style-position: inside;
   list-style-type: none;
   padding: 0;
