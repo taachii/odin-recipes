@@ -1,6 +1,14 @@
 body{
   margin-top: 20vh;
   text-align: center;
+  font-family: 'Courier New', Courier, monospace
+}
+
+.title{
+  font-size: 1.8em;
+  color: rgb(76, 208, 172);
+  text-shadow: 2px 1px rgb(37, 103, 85)
+
 }
 
 ul.recipe-list{
@@ -11,11 +19,13 @@ ul.recipe-list{
 }
 
 .container{
-  background-color: #ffebcd;
+  background-color: #3e4448;
   width: 30%;
   max-width: 300px; 
   padding: 5vh;
   margin: 0 auto;
+  border-radius: 15px 50px;
+  border: solid rgb(76, 208, 172) 10px;
 }
 
 
