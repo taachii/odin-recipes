@@ -1,0 +1,11 @@
+body{
+  margin-top: 20%;
+  text-align:center;
+}
+
+.recipe-list{
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
