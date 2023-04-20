@@ -1,7 +1,7 @@
 body{
   margin-top: 20vh;
   text-align: center;
-  font-family: 'Courier New', Courier, monospace
+  font-family: 'Courier New', Courier, monospace;
 }
 
 .title{
@@ -22,7 +22,7 @@ ul.recipe-list{
   background-color: #3e4448;
   width: 30%;
   max-width: 300px; 
-  padding: 5vh;
+  padding: 8vh;
   margin: 0 auto;
   border-radius: 15px 50px;
   border: solid rgb(76, 208, 172) 10px;
@@ -38,6 +38,11 @@ a:link{
 
 a:hover{
   color:rgb(55, 151, 125);
+  font-size: 1.2em; 
+}
+
+a:visited{
+  color: #e4e4e4;
 }
 
 
