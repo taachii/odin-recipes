@@ -60,7 +60,8 @@ a:hover{
 .description-content{
   margin: 0 auto;
   width: 75vw;
-  padding: 15px;
+  padding: 15px 0;
+  margin-bottom: 40px;
 }
 
 .description-content p{
@@ -71,7 +72,15 @@ a:hover{
 ul.ingredient-list{
   list-style-position: inside;
   list-style-type: none;
-  padding: 0;
+  padding: 15px 0px;
+  margin-bottom: 40px;
+
+}
+
+ol.step-list{
+  list-style-position: inside;
+  padding: 15px 0px;
+  margin-bottom: 40px;
 }
 
 
