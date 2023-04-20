@@ -1,7 +1,7 @@
 /*index.html */
 
 body{
-  margin-top: 20vh;
+  margin-top: 10vh;
   text-align: center;
   font-family: 'Courier New', Courier, monospace;
 }
@@ -52,4 +52,8 @@ a:hover{
 
 /*recipes*/
 
+.dish-image{
+  height: 474px;
+  width: auto;
+}
 
