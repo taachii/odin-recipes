@@ -10,4 +10,12 @@ ul.recipe-list{
   margin: 0;
 }
 
+.container{
+  background-color: #ffebcd;
+  width: 30%;
+  max-width: 300px; 
+  padding: 5vh;
+  margin: 0 auto;
+}
+
 
